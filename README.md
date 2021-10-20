@@ -1,0 +1,1 @@
+In this simple bankist web-app user can sign-in using username and password and perform all the bank operations like check current balance, transfer money, request for loan and even close their account. 
